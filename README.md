@@ -8,4 +8,10 @@ Remix the following glitch project:
 https://glitch.com/edit/#!/sensor-data-example
 
 
+## Scenario 2
+In the second scenerio we will use an online cloud service called ThingSpeak to store and display the data and then use a python script to send data to this database
+
+Sign up to Thingspeak
+https://thingspeak.com/
+
 
